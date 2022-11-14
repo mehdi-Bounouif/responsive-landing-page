@@ -1,2 +1,1 @@
-# responsive-landing-page
-responsive landing page
+![parallax home page](img/responsive-website.jpg)
